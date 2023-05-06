@@ -1,1 +1,1 @@
-This repo contains practice codes
+This repo contains practice codes.
