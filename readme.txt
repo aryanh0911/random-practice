@@ -1,1 +1,1 @@
-added a readme text file here
+This repo contains practice codes
