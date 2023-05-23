@@ -21,9 +21,9 @@ int main(){
 
     
     //Bubble Sort Processing
-    for (int i = 1; i < n; i++)
+    for (int i = 1; i < n; i++) //loop runs n-1 times
     {
-        for (int j = 0; j < n-i; j++)
+        for (int j = 0; j < n-i; j++) //loop runs n-i times
         {
             if (arr[j] > arr[j+1])
             {
@@ -34,6 +34,7 @@ int main(){
             }
             
         }
+    
         
     }
     
