@@ -5,6 +5,7 @@ using namespace std;
 int main(){
 
     int n;
+    cout<<"enter n: ";
     cin>>n;
 
     int arr[n];

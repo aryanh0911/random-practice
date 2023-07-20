@@ -4,7 +4,7 @@
 using namespace std;
 
 
-int main(){
+int main(){ 
 
     int n;
     cout<<"enter the number of array elements: ";
@@ -23,7 +23,7 @@ int main(){
     //Bubble Sort Processing
     for (int i = 1; i < n; i++) //loop runs n-1 times
     {
-        for (int j = 0; j < n-i; j++) //loop runs n-i times
+        for (int j = 0; j < n-i; j++) //loop runs n-i times     0,1
         {
             if (arr[j] > arr[j+1])
             {
